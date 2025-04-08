@@ -12,7 +12,7 @@ If you like this repo, be sure to ⭐ it.
 
 |  #    | Projects                                                                                                                                   |
 | ---   | -------------------------------------------------------------------------------------------------------------------------------------------|
-|  01   | [Thinet_achnouri](https://github.com/achnouri/Thisnet_simple_front-end_v1)                                                                                       | 
+|  01   | [Thisnet_achnouri](https://github.com/achnouri/Thisnet_simple_front-end_v1)                                                                                       | 
 |  --   | Other projects under implementation ...                                                                                                    |
 
 <hr>
